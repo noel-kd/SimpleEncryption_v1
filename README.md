@@ -7,4 +7,4 @@ This program can act as a framework for encryption algorithms.
 Simply replace the simple algorithm in place with any algorithm that 
 accepts an encryption key and returns a char. See code comments.
 
-**Do not encrypt files you do not have permission to encrypt.
+**Do not encrypt/decrypt files you do not have permission to encrypt/decrypt.
