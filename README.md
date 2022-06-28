@@ -1,4 +1,4 @@
-# simple-encrypt-decrypt_v1
+# SimpleEncryption_v1
 Created by Kyle Noel, 20Jun2022
 
 A simple encryption/decryption tool written in C++ for Windows.
